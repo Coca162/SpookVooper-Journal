@@ -1,22 +1,27 @@
 {
    "Time Proposed": 0, //* The proposal message time sent by the proposer 
    "Voted Time": 0, //* When the vote that included the motion began
-   "Vote ended time": 0, //* 
+   "Vote ended time": 0, //* When the vote end message that ends the motion vote is posted
    //* ^^^ These are Unix times
    "Type": "Bill",
-   "Tag": null, //* Tags can be: GOV, JUD, ECO, NER, AMN, OTH
+   "Tag": null, //* Tags can be: GOV, JUD, ECO, NER, AMN, RP, OTH
    "Id": 0, //* ID goes up by 1 for each motion
    "Repealed": false,
    "Name": null, //* Name of Bill
    "Short Name": null, //* Short Name for Bill
    "Revision": 0, //* If this bill is a revision increase increment this from the previous number of that bill
+   "Proposer": //* The person who proposed the motion
+   {
+      "svid":"u-UserSVID",
+      "name":"Author"
+   },
    "Authors": [
     {
         "svid":"u-UserSVID",
         "name":"Author"
     }
   ],
-   "Content":"The legal content of the bill",
+   "Content": null, //* Legal Content of Law
    "Votes":[
       {
          "svid":"u-c60c6bd8-0409-4cbd-8bb8-3c87e24c55f8",

@@ -9,15 +9,20 @@
    "Name": "Military Reform Act of Vooperia",
    "Short Name": "MILRAVE",
    "Revision": 0,
+   "Proposer":
+   {
+      "svid":"u-81bfd5c5-0e1c-4454-b03b-8a95f32559ee",
+      "name":"Devin"
+   },
    "Authors": [
-     {
-         "svid":"u-9a4de3d8-3561-452e-a3e6-f6e1c69edefd",
-         "name":"0something0"
-     },
-     {
+    {
+       "svid":"u-9a4de3d8-3561-452e-a3e6-f6e1c69edefd",
+       "name":"0something0"
+    },
+    {
        "svid":"u-9777c26a-357d-460b-b011-bca5fb4bbad7",
        "name":"DJZ"
-     }
+    }
   ],
    "Content": "Summary Of This Bill\nReforms the Vooperian Federal armed forces to make it better suited for rapid response and to promote internal stability.\n\n1. Budget\n   1. This bill does not make any provisions for funding.\n   2. Funding shall come from standard budget provision bills.\n2. Restructuring of the Federal forces.\n   1. Restructuring of the Military branches.\n      1. Shall create a land, sea, air, and space branch.\n      2. Each branch must have at least 1 base in each district, and must spend at least 3% of its budget in each district.\n3. Investing in Military technology.\n   1. The Space Force shall create a robust communications network to facilitate the Military Informational Network.\n      1. To facilitate rapid coordination of branches and components.\n      2. To facilitate rapid dissemination of information to the individual warfighters.\n   2. Each branch must be equipped with technologies that facilitate rapid logistics and reaction.\n      1. The Air and Space branches must invest in hypersonic and suborbital combat and transport assets.\n      2. Land and Sea branches must be able to coordinate and utilize above rapid transport assets.\n      3. A Prompt Global Strike system must be created.\n4. Regulation of District forces.\n   1. District governments  and citizens are not allowed to possess:\n      1. Airborne/spaceborne weapons.\n      2. Non-portable self-propelled munitions (i.e. missiles).\n      3. Guns and direct energy weapons which can deliver power greater than 250 kilojoules/second.\n         1. Equivalent to 50 gram projectiles (.50 BMG) at 1 km/s, at 10 rounds/second.\n      4. Unconventional weapons including\n         1. Weapons of mass destruction - chemical, biological, nuclear, and radiological weapons",
    "Votes":[

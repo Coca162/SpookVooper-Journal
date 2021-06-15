@@ -1,0 +1,115 @@
+{
+   "Time Proposed": 1623444658,
+   "Voted Time": 1623451818,
+   "Vote ended time": 1623621289,
+   "Type": "Motion",
+   "Tag": "RP",
+   "Id": 3,
+   "Repealed": false,
+   "Name": "Military Reform Act of Vooperia Revision",
+   "Short Name": "MILRAVER",
+   "Revision": 1,
+   "Authors": [
+    {
+        "svid":"u-9a4de3d8-3561-452e-a3e6-f6e1c69edefd",
+        "name":"0something0"
+    },
+    {
+      "svid":"u-9777c26a-357d-460b-b011-bca5fb4bbad7",
+      "name":"DJZ"
+    }
+  ],
+   "Content": "Summary Of This Bill\nReforms the Vooperian Federal armed forces to make it better suited for rapid response and to promote internal stability.\nSummary Of This Revision\nRemoving restrictions on citizens and most on Districts.\n\n   1. Budget\n   1. This bill does not make any provisions for funding.\n   2. Funding shall come from standard budget provision bills.\n   2. Restructuring of the Federal forces.\n   1. Restructuring of the Military branches.\n   1. Shall create a land, sea, air, and space branch.\n   2. Each branch must have at least 1 base in each district, and must spend at least 3% of its budget in each district.\n   3. Investing in Military technology.\n   1. The Space Force shall create a robust communications network to facilitate the Military Informational Network.\n   1. To facilitate rapid coordination of branches and components.\n   2. To facilitate rapid dissemination of information to the individual warfighters.\n   2. Each branch must be equipped with technologies that facilitate rapid logistics and reaction.\n   1. The Air and Space branches must invest in hypersonic and suborbital combat and transport assets.\n   2. Land and Sea branches must be able to coordinate and utilize above rapid transport assets.\n   3. A Prompt Global Strike system must be created.\n   4. Regulation of District forces.\n   1. District governments are not allowed to possess:\n   1. Unconventional weapons including:\n   1. Weapons of mass destruction - chemical, biological, nuclear, and radiological weapons.",
+   "Votes":[
+      {
+         "svid":"u-c60c6bd8-0409-4cbd-8bb8-3c87e24c55f8",
+         "name":"Superjacobl",
+         "district": "New Vooperis",
+         "vote": "nay"
+      },
+      {
+         "svid":"u-e1616412-c384-4b00-b443-b8940423df67",
+         "name":"Coca",
+         "district": "New Yam",
+         "vote": "aye"
+      },
+      {
+        "svid":"u-2d60e4ca-f363-475d-85ea-f3317af36ee2",
+        "name":"Gracie",
+        "district": "Corgi",
+        "vote": "aye"
+     },
+     {
+        "svid":"u-c9535d5e-1769-40ea-a3d4-6b73775eb086",
+        "name":"Tyco",
+        "district": "Landing Cove",
+        "vote": "nay"
+     },
+     {
+        "svid":"u-7a62d274-3030-4bc0-9ea4-2ebddff329b6",
+        "name":"Pvp",
+        "district": "Old King",
+        "vote": "aye"
+     },
+     {
+        "svid":"u-fb5ebb2f-17c9-42ac-92d9-9a28911d3df2",
+        "name":"Droplt",
+        "district": "Voopmont",
+        "vote": "aye"
+     },
+     {
+        "svid":"u-5d8397c2-23d1-4db1-8b84-48e6f22dc7df",
+        "name":"Caesar",
+        "district": "Queensland",
+        "vote": "nay"
+     },
+     {
+        "svid":"u-7173e47a-b729-4d47-9c13-774d3978be88",
+        "name":"Hawthorne",
+        "district": "Netherlands",
+        "vote": "aye"
+     },
+     {
+        "svid":"u-81bfd5c5-0e1c-4454-b03b-8a95f32559ee",
+        "name":"Devin",
+        "district": "New Spudland",
+        "vote": "aye"
+     },
+     {
+        "svid":"u-1419405d-9197-4383-a483-2eb93eab592e",
+        "name":"Pope Francis",
+        "district": "San Vooperisco",
+        "vote": "aye"
+     },
+     {
+        "svid":"u-e753b63b-7152-4fbb-84d9-1442c53552c6",
+        "name":"WizardCraft",
+        "district": "Medievala",
+        "vote": "aye"
+     },
+     {
+        "svid":"u-c44e159c-92ef-4e0a-b87f-020c8a4be1b4",
+        "name":"Kiwi",
+        "district": "Old Yam",
+        "vote": "aye"
+     },
+     {
+        "svid":"u-65b1af9f-47ad-420c-9325-e67179a879ba",
+        "name":"Jambon",
+        "district": "Isle of Servers Past",
+        "vote": "aye"
+     },
+     {
+        "svid":"u-9777c26a-357d-460b-b011-bca5fb4bbad7",
+        "name":"DJZ",
+        "district": "Los Vooperis",
+        "vote": "aye"
+     },
+     {
+        "svid":"u-1cdac524-3e64-4202-83df-cae2a804dad5",
+        "name":"Luka",
+        "district": "Vooperia City",
+        "vote": "aye"
+     }
+   ]
+}

@@ -2,7 +2,6 @@
    "Time Proposed": 1623352906,
    "Voted Time": 1623354445,
    "Vote ended time": 1623440354,
-   "Type": "Bill",
    "Tag": "RP",
    "Id": 1,
    "Repealed": true,
@@ -71,7 +70,7 @@
      {
         "svid": null,
         "name": null,
-        "district": null,
+        "district": "Netherlands",
         "vote": null
      },
      {

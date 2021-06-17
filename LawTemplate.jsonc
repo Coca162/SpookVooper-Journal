@@ -3,7 +3,7 @@
    "Voted Time": 0, //* When the vote that included the motion began
    "Vote ended time": 0, //* When the vote end message that ends the motion vote is posted
    //* ^^^ These are Unix times
-   "Type": "Bill",
+   "Type": "Law",
    "Tag": null, //* Tags can be: GOV, JUD, ECO, NER, AMN, RP, OTH
    "Id": 0, //* ID goes up by 1 for each motion
    "Repealed": false,

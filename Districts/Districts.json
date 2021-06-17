@@ -1,0 +1,79 @@
+{
+    "Districts": [
+        {
+            "name": "New Vooperis",
+            "svid": "g-newvooperis",
+            "code": "NV"
+        },
+        {
+            "name": "New Yam",
+            "svid": "g-newyam",
+            "code": "NY"
+        },
+        {
+            "name": "Corgi",
+            "svid": "g-corgi",
+            "code": "CR"
+        },
+        {
+            "name": "Landing Cove",
+            "svid": "g-landingcove",
+            "code": "LC"
+        },
+        {
+            "name": "Old King",
+            "svid": "g-oldking",
+            "code": "OK"
+        },
+        {
+            "name": "Voopmont",
+            "svid": "g-voopmont",
+            "code": "VM"
+        },
+        {
+            "name": "Queensland",
+            "svid": "g-queensland",
+            "code": "QL"
+        },
+        {
+            "name": "Netherlands",
+            "svid": "g-netherlands",
+            "code": "NL"
+        },
+        {
+            "name": "New Spudland",
+            "svid": "g-newspudland",
+            "code": "NS"
+        },
+        {
+            "name": "San Vooperisco",
+            "svid": "g-sanvooperisco",
+            "code": "SV"
+        },
+        {
+            "name": "Medievala",
+            "svid": "g-medievala",
+            "code": "MD"
+        },
+        {
+            "name": "Old Yam",
+            "svid": "g-oldyam",
+            "code": "OY"
+        },
+        {
+            "name": "Isle of Servers Past",
+            "svid": "g-serverspast",
+            "code": "SP"
+        },
+        {
+            "name": "Los Vooperis",
+            "svid": "g-losvooperis",
+            "code": "LV"
+        },
+        {
+            "name": "Vooperia City",
+            "svid": "g-vooperiacity",
+            "code": "VC"
+        }
+    ]
+}

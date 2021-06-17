@@ -1,0 +1,114 @@
+{
+    "Time Proposed": 1605312000,  
+    "Voted Time": null,
+    "Vote ended time": null,
+    "Type": "Law",
+    "Tag": "GOV",
+    "Id": 5,
+    "Repealed": false,
+    "Name": "Electioneering Act",
+    "Short Name": "EA",
+    "Revision": 0, 
+    "Proposer":
+    {
+       "svid":null,
+       "name":null
+    },"Authors": [
+        {
+            "svid":"u-532411ba-fdb2-4ba7-8a7a-c56bbdb8a840",
+            "name":"Justice CSI_Gunner"
+        }  ],
+        "Content": "Summary of this act\nAs to prevent voter solicitation/manipulation at the polling place, electioneering law shall be established.\n1. Electioneering\n   1. Electioneering is defined as\n      1. The activity of trying to persuade people to vote for a particular person or political party.\n2. Polling Station\n   1. The Polling Station is defined as\n      1. Any chat (channel, private message, public server) where an election link is present and active, or some other form of voting is permitted concerning the election of an individual to a district or federal government position.\n3. Electioneering within the Polling Station\n   1. Electioneering shall not be permitted within the polling station, or within 10 meters of the polling station entrance (within Nerdcraft).\n4. Exceptions to Electioneering Restrictions\n   1. Electioneering shall be permitted\n      1. Within district chats where an election link is active.\n      2. Within a Private Message where an election link has not been present or active within 4 days before or after the electioneering was conducted.\n   2. Providing a link to the channel where an election link is, or providing a link to a message where an election link is will not be considered electioneering at the polling station.",
+        "Votes":[
+           {
+              "svid":null,
+              "name":null,
+              "district": "New Vooperis",
+              "vote": null 
+           },
+           {
+              "svid":null,
+              "name":null,
+              "district": "New Yam",
+              "vote": null
+           },
+           {
+             "svid":null,
+             "name":null,
+             "district": "Corgi",
+             "vote": null
+          },
+          {
+             "svid":null,
+             "name":null,
+             "district": "Landing Cove",
+             "vote": null
+          },
+          {
+             "svid":null,
+             "name":null,
+             "district": "Old King",
+             "vote": null
+          },
+          {
+             "svid":null,
+             "name":null,
+             "district": "Voopmont",
+             "vote": null
+          },
+          {
+             "svid":null,
+             "name":null,
+             "district": "Queensland",
+             "vote": null
+          },
+          {
+             "svid":null,
+             "name":null,
+             "district": "Netherlands",
+             "vote": null
+          },
+          {
+             "svid":null,
+             "name":null,
+             "district": "New Spudland",
+             "vote": null
+          },
+          {
+             "svid":null,
+             "name":null,
+             "district": "San Vooperisco",
+             "vote": null
+          },
+          {
+             "svid":null,
+             "name":null,
+             "district": "Medievala",
+             "vote": null
+          },
+          {
+             "svid":null,
+             "name":null,
+             "district": "Old Yam",
+             "vote": null
+          },
+          {
+             "svid":null,
+             "name":null,
+             "district": "Isle of Servers Past",
+             "vote": null
+          },
+          {
+             "svid":null,
+             "name":null,
+             "district": "Los Vooperis",
+             "vote": null
+          },
+          {
+             "svid":null,
+             "name":null,
+             "district": "Vooperia City",
+             "vote": null
+          }
+        ]
+     }

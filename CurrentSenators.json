@@ -1,16 +1,16 @@
 {
     "Senators":[
-       {
+      {
           "svid":"u-c60c6bd8-0409-4cbd-8bb8-3c87e24c55f8",
           "name":"Superjacobl",
           "district": "New Vooperis"
-       },
-       {
+      },
+      {
           "svid":"u-e1616412-c384-4b00-b443-b8940423df67",
           "name":"Coca",
           "district": "New Yam"
-       },
-       {
+      },
+      {
          "svid":"u-2d60e4ca-f363-475d-85ea-f3317af36ee2",
          "name":"Gracie",
          "district": "Corgi"

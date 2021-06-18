@@ -1,0 +1,106 @@
+{
+   "Time Proposed": 1623802427,
+   "Voted Time": 1623802916,
+   "Vote ended time": 1623870878,
+   "Type": "Motion",
+   "Tag": "GOV",
+   "Id": 6,
+   "Proposer":
+   {
+      "svid":"u-1cdac524-3e64-4202-83df-cae2a804dad5",
+      "name":"Luka"
+   },
+   "Content": "Motion to add Senate document search site to the subdomain of spookvooper which is gov.spookvooper.com. The site will be friendly to citizen's eyes, so they dont have hard time searching, and reading laws, and everything government related.",
+   "Votes":[
+      {
+         "svid":"u-c60c6bd8-0409-4cbd-8bb8-3c87e24c55f8",
+         "name":"Superjacobl",
+         "district": "New Vooperis",
+         "vote": "nay"
+      },
+      {
+         "svid":"u-e1616412-c384-4b00-b443-b8940423df67",
+         "name":"Coca",
+         "district": "New Yam",
+         "vote": "nay"
+      },
+      {
+         "svid":"u-2d60e4ca-f363-475d-85ea-f3317af36ee2",
+         "name":"Gracie",
+         "district": "Corgi",
+         "vote": "aye"
+     },
+     {
+         "svid":"u-c9535d5e-1769-40ea-a3d4-6b73775eb086",
+         "name":"Tyco",
+         "district": "Landing Cove",
+         "vote": "nay"
+     },
+     {
+         "svid":"u-7a62d274-3030-4bc0-9ea4-2ebddff329b6",
+         "name":"Pvp",
+         "district": "Old King",
+         "vote": "abs"
+     },
+     {
+         "svid":"u-fb5ebb2f-17c9-42ac-92d9-9a28911d3df2",
+         "name":"Droplt",
+         "district": "Voopmont",
+         "vote": "aye"
+     },
+     {
+         "svid":"u-5d8397c2-23d1-4db1-8b84-48e6f22dc7df",
+         "name":"Caesar",
+         "district": "Queensland",
+         "vote": "aye"
+     },
+     {
+         "svid":"u-7173e47a-b729-4d47-9c13-774d3978be88",
+         "name":"Hawthorne",
+         "district": "Netherlands",
+         "vote": "aye"
+     },
+     {
+         "svid":"u-81bfd5c5-0e1c-4454-b03b-8a95f32559ee",
+         "name":"Devin",
+         "district": "New Spudland",
+         "vote": "aye"
+     },
+     {
+         "svid":"u-1419405d-9197-4383-a483-2eb93eab592e",
+         "name":"Pope Francis",
+         "district": "San Vooperisco",
+         "vote": "aye"
+     },
+     {
+         "svid":"u-e753b63b-7152-4fbb-84d9-1442c53552c6",
+         "name":"WizardCraft",
+         "district": "Medievala",
+         "vote": "aye"
+     },
+     {
+         "svid":"u-c44e159c-92ef-4e0a-b87f-020c8a4be1b4",
+         "name":"Kiwi",
+         "district": "Old Yam",
+         "vote": "aye"
+     },
+     {
+         "svid":"u-65b1af9f-47ad-420c-9325-e67179a879ba",
+         "name":"Jambon",
+         "district": "Isle of Servers Past",
+         "vote": "aye"
+     },
+     {
+         "svid":"u-9777c26a-357d-460b-b011-bca5fb4bbad7",
+         "name":"DJZ",
+         "district": "Los Vooperis",
+         "vote": "aye"
+     },
+     {
+         "svid":"u-1cdac524-3e64-4202-83df-cae2a804dad5",
+         "name":"Luka",
+         "district": "Vooperia City",
+         "vote": "aye"
+     }
+   ]
+}

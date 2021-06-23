@@ -1,0 +1,118 @@
+{
+    "Type": "Law",
+    "Tag": "GOV",
+    "Id": 4,
+    "Name": "Judicial Branch Act",
+    "Short Name": "JBA",
+    "Revision": null,
+    "Vote ended time": 1624308078,
+    "Voted Time": 1624208051,
+    "Time Proposed": 1624207508,
+    "Proposer": {
+      "svid": "u-e1616412-c384-4b00-b443-b8940423df67",
+      "name": "Coca"
+    },
+    "Authors": [
+      {
+        "svid": "u-c9535d5e-1769-40ea-a3d4-6b73775eb086",
+        "name": "Tyco"
+      },
+      {
+        "svid": "u-e1616412-c384-4b00-b443-b8940423df67",
+        "name": "Coca"
+      }
+    ],
+    "Content": "(a) (1) SUMMARY OF THIS ACT.— \nThis act contains laws that pertain to the Judicial Branch of the Vooperian government.\n\n\n1. District Courts\n   1. Appointment\n      1. Each district in the Empire shall have a District Court. Headed by one judge who shall be chosen by the local senator. This judge is chosen by the Senator of the district and can be removed and replaced by the Senator at any time.\n         1. The removal of a Judge can be blocked by the Supreme Court if they deem it to be corrupt.\n      2. In the event that there is no district Judge, the Senator shall serve as the Judge of a district.\n   2. Abilities and Responsibilities\n      1. District judges may only rule over cases that pertain to policies in their district. A case that pertains to a federal law must be appealed to the corresponding federal court.\n   3. Appealing\n      1. The District Judge may choose which cases to accept.\n         1. If a case is not accepted, it may instead be appealed to the Lower Court.\n      2. The plaintiff may appeal the verdict to the Lower Court.\n         1. If the verdict appeal is denied, the verdict shall stay in place.\n2. Lower Court\n   1. Appointment\n      1. Lower Court arbiters are appointed by the Supreme Court. They can be appointed with a simple majority vote within 10 calendar days.\n      2. In the event that there is an empty seat on the Lower Court, the Supreme Court has 10 calendar days to find, and appoint a replacement Arbiter.\n      3. If the Supreme Court fails to appoint an arbiter within 10 calendar days, the Emperor has 10 calendar days to appoint a new Arbiter.\n      4. If the Emperor fails to appoint a new Arbiter after 10 calendar days, the Head Arbiter (or acting Head Arbiter) is granted permission to appoint the Arbiter(s).\n   2. Abilities and Responsibilities\n      1. The Lower Court’s responsibility is to deal with any case that is not under the jurisdiction of the Supreme, or District courts.\n      2. The Lower Court may create case law if there is no law on a certain action, that clearly should be illegal.\n         1. Lower Court case law can be overruled by the Supreme Court.\n   3. Head Arbiter\n      1. The Head Arbiter is in charge of organizing votes within the Lower Court and has the responsibility of leading the court.\n      2. In the event that there is no Head Arbiter, the Lower Court has 3 days to vote on, and appoint a replacement.\n      3. If the Lower Court fails to appoint the replacement within 3 days, the Supreme Court has 3 days to appoint a replacement.\n      4. If the Supreme Court fails to appoint a replacement within 3 days, the Emperor appoints a replacement.\n      5. In between the time that there is originally no Head Arbiter, and the time that a new Head Arbiter is appointed, the Arbiter with the most seniority will serve as acting Head Arbiter.\n   4. Appeals\n      1. The Lower Court may choose which cases to accept, and which to deny. A simple majority vote is required to hear a case.\n   5. Positions\n      1. The Lower Court shall be made up of 4 Arbiters, and 1 Head Arbiter.\n   6. Arbiter Absence\n      1. In the event that there are less than three sitting Arbiters, the Chief Justice (or acting Chief Justice) will be given a temporary seat on the Lower Court.\n3. Supreme Court\n   1. Appointment\n      1. Supreme Court Justices are appointed by the Emperor and must be approved by a simple majority of Senators within 7 days of the vacancy.\n      2. If the Emperor fails to appoint a Supreme Court Justice within 7 days of a vacancy, the Senate has 7 days to appoint, and approve individuals to fill the seat(s).\n      3. If the Senate fails to appoint and approve a new Justice within 7 days, the Chief Justice can fill the vacancy.\n   2. Abilities and Responsibilities\n      1. The Supreme Court’s responsibility is to deal with cases that pertain to impeachment, and constitutionality.\n      2. The Supreme Court may create case law to better clarify existing laws or to declare a certain action that should be illegal, illegal.\n      3. The Supreme Court may interpret the law, and any interpretation created by the Supreme Court becomes law unless overruled in a future bill, or amendment.\n   3. Chief Justice\n      1. The Chief Justice is in charge of organizing votes within the Supreme Court and has the responsibility of leading the court.\n      2. In the event that there is no Chief Justice, the Supreme Court has 3 days to vote on, and appoint a replacement.\n      3. If the Supreme Court fails to appoint the replacement within 3 days, the Emperor has 3 days to appoint a replacement.\n      4. If the Emperor fails to appoint a replacement within 3 days, the Senate appoints a replacement with a simple majority vote.\n      5. In between the time that there is originally no Chief Justice and the time that a new Chief Justice is appointed, the Justice with the most seniority will serve as acting Head Arbiter.\n   4. Appeals\n      1. The Supreme Court may choose which cases to accept, and which to deny. A simple majority vote is required to hear a case.\n   5. Positions\n      1. The Supreme Court will consist of 4 Justices, and one Chief Justice.\n   6. Justice Absence\n      1. In the event that there are less than three sitting Supreme Court Justices at a time, the Head Arbiter (or acting Head Arbiter) will be given a temporary seat on the Supreme Court. Once there are three sitting Supreme Court Justices, the seat is revoked.\n4. Court Voting\n   1. Vote Requirements and Lengths\n      1. For votes regarding whether a case should be heard, a simple majority is required to hear the case. If a simple majority is not achieved within 24 hours, the case will not be heard. This includes ties. \n         1. The Emperor does not get to break ties regarding hearing cases.\n      2. For votes regarding the verdict of a hearing, a simple majority is required to declare a verdict. If a simple majority is not achieved within 24 hours, a new verdict must be proposed. This process must be repeated until a verdict achieves a simple majority. \n         1. The Emperor does not get to break ties regarding the verdicts of hearings.\n      3. For votes regarding impeachment trials, a simple majority is required to impeach. If a simple majority to declare a verdict is not achieved within 48 hours, a new verdict must be proposed. The process must be repeated until a verdict achieves a simple majority. \n         1. The Emperor does not get to break ties regarding verdicts.\n      4. For votes regarding whether someone may be allowed to run for a position in government while not meeting the requirements, a simple majority is required. If a simple majority is not achieved within 24 hours, the user is not granted permission to run.\n         1. The Emperor does not get to break ties regarding appealing to run for a position in government. \n5. Whistleblowing\n   1. Appealing\n      1. If an individual fears for their safety, well-being, or that the person or institution they are appealing against will take action against them, they may make an anonymous appeal to whichever court handles the kind of case they are appealing for.\n      2. The appeal made to the Justice, Arbiter, or Judge must be in the normal format as any other appeal.\n      3. The whistleblower may not reveal illegal activity to other companies, individuals, or institutions, and should instead appeal.\n      4. Once the Justice, Arbiter, or Judge receives the appeal, they may not disclose the identity of the whistleblower to anyone.\n         1. If it is also a server issue, the Justice, Arbiter, or Judge must report it to server staff.\n   2. Evidence\n      1. Any evidence must have the times and dates redacted prior to being shown to other members of the court or the populous. \n   3. Lawyer\n      1. The whistleblower may request a lawyer or may request that a lawyer be appointed to the case by a Justice, Arbiter, or Judge.\n         1. The lawyer is allowed to know the identity of the whistleblower.\n         2. The lawyer may not disclose the identity of the whistleblower to anyone if the whistleblower has not revealed themselves.\n      2. The lawyer shall make the argument on the whistleblower’s behalf, assuming that the whistleblower has not decided to reveal themselves.\n   4. Exposing of the Whistleblower\n      1. Any type of investigation in order to reveal the identity of the whistleblower is illegal and punishable in the courts.\n      2. Any attempt to reveal the identity of the whistleblower is illegal unless otherwise stated, and is punishable in the courts.\n      3. Such actions can result in a fine of up to 50k credits, a bar from running for political office/an impeachment (if the exposing was politically motivated), or any other action the Justice, Arbiter, or Judge sees fit.\n6. Court Neutrality\n   1. Neutrality\n      1. Justices, Arbiters, and Judges that have a personal stake in a court case are not permitted to be a part of discussion, voting, or rulings.\n      2. Individuals outside of the Judicial Branch (aside from specially appointed Justices, Arbiters, and Judges) are not allowed to participate in deliberation, nor are they allowed to speak in court private chambers.\n      3. Individuals are not allowed to communicate with Justices/Judges about court cases outside of the court chambers, or court private chambers. (This includes DMs, Private Servers, or public spaces in SpookVooper).\n   2. Judicial Coercion Definition\n      1. Coercion includes the use of bribery, threats, or manipulation of a Justice/Judge in a space outside of the court setting to manipulate the final ruling of the court, or to reject the hearing of a court case altogether. Manipulation is not limited to financial or physical coercion, but can also include the presentation of arguments in a space where the prosecution/defense is unable to present counter-arguments (See 1b “Nor are they allowed to speak in court private chambers” or 1c “this includes DMs, Private Servers…”)\n   3. Judicial Overseer\n      1. An individual, not of the 3 branches of government (The Judicial, Legislative, or Executive), and active in the community will be deliberated and appointed by the Supreme Court, and approved by the Senate. \n      2. The Judicial Overseer will have overview of all court public and private chambers, as well as all district chats, and will watch for coercion. They will be unable to speak in all of these chats.\n      3. If the Overseer is involved in the prosecution or defense of a court case, they will be temporarily relieved of duty, and they will appoint a temporary Overseer for the duration of hearings, deliberation, and the issuance of a ruling.\n      4. If the Overseer, Justice/Judge, or a private citizen witnesses Judicial Coercion, then they are required to report it the #appeal chat, or as a whistleblower. These reports must be detailed, and include screenshots. Multiple false reports will invoke a 5,000 Credit fine, and intentional failure to report Coercion will result in a 10,000 Credit fine.\n      5. As a protection for Overseers, or an individual acting as a whistleblower, if an individual witnesses something they believe to be coercion they are permitted to discuss it with their peers to determine if it is coercion. This is the only time private court deliberation is allowed to be discussed outside of the privacy of court chambers.\n   4. Punishment\n      1. Neutrality\n         1. If an individual attempts to coerce a Justice, Arbiter, or Judge outside of the court space, and they are a public figure they are liable to impeachment and a 10,000 Credit fine.\n         2. If an individual attempts to coerce a Justice, Arbiter, or Judge outside of the court space, and they are a private citizen or the Emperor, they are subject to a 15,000 Credit fine (to make up the difference for the punishment of impeachment).\n         3. If a Justice, Arbiter, or Judge accepts coercion, they are liable to be impeached, and whatever judgement they made to be dismissed, and potentially retried if the former prosecution wishes to do so. Justices/Judges would also have to pay a 10,000 Credit fine.\n      2. Judicial Overseer\n         1. If the Judicial Overseer discusses case deliberation occurring in private court chambers, they are liable to be removed from their position with a majority Supreme Court vote and charged a $10,000 credit fine.\n7. Trial Format\n   1. Trial Structure\n      1. Trials shall have the following structure.\n         1. Opening statement: Each side makes their main argument, without rebutting against what the other side of the argument said.\n         2. Rebuttal: Each side makes additional arguments, and may make arguments against what the other side of the argument has said. Rebuttals shall go on for a maximum of three rounds unless otherwise deemed necessary by the Chief Justice. The prosecution may decide to move to closing statements after the first round of rebuttals.\n         3. Closing statement: Each side restates their main argument, and may make any last points that they want to.\n         4. For each of these segments, the prosecution shall go first, and the defendant shall follow.\n      2. Time Limits\n         1. Time limits begin once the prosecution has been given the floor.\n         2. Each side of the argument has 24 hours to make their argument. With the time starting after each side is given the floor by the Justice, Arbiter, or Judge overseeing the case.\n         3. Times may be decreased by the Chief Justice, Head Arbiter, or Judge in times of urgency.\n         4. Extensions of up to 48 hours may be granted by the Chief Justice, Head Arbiter, or Judge.\n         5. Failure to make an argument within the time limit will result in being skipped.\n8. Public Defense\n   1. Attorney General\n      1. The Attorney General enforces federal laws made by the Senate of the Vooperian Empire.\n         1. This entails the prosecution of the lawbreaker by appealing, in which the Attorney General files an appeal against the lawbreaker on behalf of the Federal Government.\n         2. The Attorney General must state in the appeal that they are appealing on behalf of the Vooperian Empire.\n      2. The Attorney General is appointed by the Prime Minister and is the legal advisor to the Government.\n      3. The Attorney General may be removed by the Prime Minister at any time.\n      4. The Attorney General may be impeached by the Senate with a majority vote for not fulfilling their duties, or any other impeachable act.\n      5. In the case that Federal law is broken, it is the responsibility of the Attorney general to appeal against the lawbreaker on behalf of the government.\n      6. In the case that the Federal government is being sued, it is the responsibility of the Attorney general to represent the Federal Government in court.\n      7. The Emperor may take over the duty of the Attorney General at any time if they wish.\n   2. Public Defender\n      1. In the case that an individual is unable to defend themselves, does not want to defend themselves, and cannot obtain a lawyer, they may have a Public Defender appointed to them.\n      2. The Public Defender may not charge the defendant for their service.\n      3. A citizen who meets the requirements for being appointed a Public Defender, and may be presented with a list of Public Defenders willing to take the case to choose from.\n      4. Public Defenders are appointed by the Head Arbiter and are approved by the Lower Court with a simple majority vote.\n9. Transparency\n   1. Rulings\n      1. Upon announcement of the results of any verdict or votes in the court, a log of how every Justice, or Arbiter voted must be provided.\n         1. To avoid redundancy, statements such as “unanimously voted yes, unanimously voted no, everyone voted yes except X” may be used.\n      2. Logs may be provided in any format that the announcer of the verdict sees fit, but it must be easily understandable.\n10. Repeals\n   1. Upon the passing of this bill, the following legislation is repealed due to being consolidated into this amendment.\n      1. District Judicial Autonomy Act\n      2. Whistleblower Act\n      3. Court Coercion and Neutrality Act\n      4. Court Usage Requirements Act\n      5. Supreme Court Voting Act\n      6. Lower Court Appointment Act\n      7. Reasonable Trials Act\n      8. Public Defense and Prosecution Act\n      9. Public Defense and Prosecution Act Revision\n      10. Judicial Branch Transparency Act\n      11. Judicial System Amendment\n",
+    "Votes": [
+      {
+        "name": "Superjacobl",
+        "svid": "u-c60c6bd8-0409-4cbd-8bb8-3c87e24c55f8",
+        "district": "New Vooperis",
+        "vote": "aye"
+      },
+      {
+        "name": "Coca",
+        "svid": "u-e1616412-c384-4b00-b443-b8940423df67",
+        "district": "New Yam",
+        "vote": "aye"
+      },
+      {
+        "svid":"u-2d60e4ca-f363-475d-85ea-f3317af36ee2",
+        "name":"Gracie",
+        "district": "Corgi",
+        "vote": "aye"
+      },
+      {
+        "name": "Tyco",
+        "svid": "u-c9535d5e-1769-40ea-a3d4-6b73775eb086",
+        "district": "Landing Cove",
+        "vote": "nay"
+      },
+      {
+        "name": "Pvp",
+        "svid": "u-7a62d274-3030-4bc0-9ea4-2ebddff329b6",
+        "district": "Old King",
+        "vote": "aye"
+      },
+      {
+        "name": "Droplt",
+        "svid": "u-fb5ebb2f-17c9-42ac-92d9-9a28911d3df2",
+        "district": "Voopmont",
+        "vote": "aye"
+      },
+      {
+        "name": "Caesar",
+        "svid": "u-5d8397c2-23d1-4db1-8b84-48e6f22dc7df",
+        "district": "Queensland",
+        "vote": "aye"
+      },
+      {
+        "name": "Hawthorne",
+        "svid": "u-7173e47a-b729-4d47-9c13-774d3978be88",
+        "district": "Netherlands",
+        "vote": "aye"
+      },
+      {
+        "name": "Devin",
+        "svid": "u-81bfd5c5-0e1c-4454-b03b-8a95f32559ee",
+        "district": "New Spudland",
+        "vote": "aye"
+      },
+      {
+        "name": "Pope Francis",
+        "svid": "u-1419405d-9197-4383-a483-2eb93eab592e",
+        "district": "San Vooperisco",
+        "vote": "aye"
+      },
+      {
+        "name": "WizardCraft",
+        "svid": "u-e753b63b-7152-4fbb-84d9-1442c53552c6",
+        "district": "Medievala",
+        "vote": "aye"
+      },
+      {
+        "name": "Kiwi",
+        "svid": "u-c44e159c-92ef-4e0a-b87f-020c8a4be1b4",
+        "district": "Old Yam",
+        "vote": "aye"
+      },
+      {
+        "name": "Jambon",
+        "svid": "u-65b1af9f-47ad-420c-9325-e67179a879ba",
+        "district": "Isle of Servers Past",
+        "vote": "aye"
+      },
+      {
+        "name": "DJZ",
+        "svid": "u-9777c26a-357d-460b-b011-bca5fb4bbad7",
+        "district": "Los Vooperis",
+        "vote": "aye"
+      },
+      {
+        "name": "Luka",
+        "svid": "u-1cdac524-3e64-4202-83df-cae2a804dad5",
+        "district": "Vooperia City",
+        "vote": "aye"
+      }
+    ]
+  }

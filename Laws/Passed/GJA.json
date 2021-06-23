@@ -1,116 +1,114 @@
 {
-   "Time Proposed": 1623540687,
-   "Voted Time": 1624041596,
-   "Vote ended time": 1624133508,
    "Type": "Law",
    "Tag": "GOV",
-   "Id": 7,
-   "Repealed": false,
+   "Id": 3,
    "Name": "Github Journal Act",
    "Short Name": "GJA",
-   "Revision": 0,
-   "Proposer":
-   {
-      "svid":"u-e1616412-c384-4b00-b443-b8940423df67",
-      "name":"Coca"
+   "Revision": null,
+   "Vote ended time": 1624308078,
+   "Voted Time": 1624208051,
+   "Time Proposed": 1624207508,
+   "Proposer": {
+     "svid": "u-e1616412-c384-4b00-b443-b8940423df67",
+     "name": "Coca"
    },
    "Authors": [
-    {
-      "svid":"u-e1616412-c384-4b00-b443-b8940423df67",
-      "name":"Coca"
-    }
-  ],
-   "Content": "Summary Of This Act\nThe goal of this act is to improve the archival of laws by having the central location for all laws be Github.\n\n1. Creation\n   1. A new Github organization owned by the record keeper would be made\n   2. A repository named “Journal” in the new organisation would contain all laws\n2. Law\n   1. What is considered as the law is the github \n3. Record Keeper\n   1. The position of record keeper shall be created and their purpose would be to carry out the goals of this act\n   2. Record keeper would be appointed by the senate when there is no record keeper with a simple majority RCV vote\n   3. If a new record keeper is appointed the previous record keeper would transfer ownership of the organization or if the old record keeper is not cooperative then a new organisation as per this acts requirements\n   4. The record keeper would assign a temporary record keeper for when the record keeper resigns or is unable to do his duties\n      1. This would be the same person as the record keeper’s forker\n4. Record Keeping\n   1. A individual commit would be made for each passed motion\n      1. Any law that a passed motion has will be recorded\n   2. If a motion is to add a new law the Senator who is proposing the motion can optionally provide a text file with the same legal content  but different formatting for aesthetic reasons.\n      1. If no text file is provided only legal content will be extracted from whatever format the senator proposed is into one.\n   3. If a motion removes a law it would be put in a “Repealed” folder instead of being deleted\n   4. If the recorder keeper wishes to they can archive anything related to SpookVooper or of importance\n   5. Names of people who will be recorded in the journal will be will be decided by the record keeper if people to not respond to a notification about their name after a week\n      1. Record keeper can use a temporary name in the meantime\n      2. Name changes would be done on a case by case basis by the record keeper\n5. Deletion Prevention\n   1. 2 people would be assigned to keep updated forks of the repository Laws to prevent the deletion of repository from losing all laws.\n      1. One is assigned by the PM/President and the other by the record keeper\n         1. Ideally these 2 people have little connections to each other\n         2. These can also be replaced by the PM/President or record keeper\n      2. Each person must have one branch with the name “archive”\nThis is to allow for automatic systems to update the repository to the latest one every hour\n      3. The legal name for these would be “Forkers”",
-   "Votes":[
-      {
-         "svid":"u-c60c6bd8-0409-4cbd-8bb8-3c87e24c55f8",
-         "name":"Superjacobl",
-         "district": "New Vooperis",
-         "vote": "aye"
-      },
-      {
-         "svid":"u-e1616412-c384-4b00-b443-b8940423df67",
-         "name":"Coca",
-         "district": "New Yam",
-         "vote": "aye"
-      },
-      {
-         "svid":"u-2d60e4ca-f363-475d-85ea-f3317af36ee2",
-         "name":"Gracie",
-         "district": "Corgi",
-         "vote": null
-      },
-      {
-         "svid":"u-c9535d5e-1769-40ea-a3d4-6b73775eb086",
-         "name":"Tyco",
-         "district": "Landing Cove",
-         "vote": "nay"
-      },
-      {
-         "svid":"u-7a62d274-3030-4bc0-9ea4-2ebddff329b6",
-         "name":"Pvp",
-         "district": "Old King",
-         "vote": "aye"
-      },
-      {
-         "svid":"u-fb5ebb2f-17c9-42ac-92d9-9a28911d3df2",
-         "name":"Droplt",
-         "district": "Voopmont",
-         "vote": "aye"
-      },
-      {
-         "svid":"u-5d8397c2-23d1-4db1-8b84-48e6f22dc7df",
-         "name":"Caesar",
-         "district": "Queensland",
-         "vote": null
-      },
-      {
-         "svid":"u-7173e47a-b729-4d47-9c13-774d3978be88",
-         "name":"Hawthorne",
-         "district": "Netherlands",
-         "vote": "aye"
-      },
-      {
-         "svid":"u-81bfd5c5-0e1c-4454-b03b-8a95f32559ee",
-         "name":"Devin",
-         "district": "New Spudland",
-         "vote": "aye"
-      },
-      {
-         "svid":"u-1419405d-9197-4383-a483-2eb93eab592e",
-         "name":"Pope Francis",
-         "district": "San Vooperisco",
-         "vote": null
-      },
-      {
-         "svid":"u-e753b63b-7152-4fbb-84d9-1442c53552c6",
-         "name":"WizardCraft",
-         "district": "Medievala",
-         "vote": "aye"
-      },
-      {
-         "svid":"u-c44e159c-92ef-4e0a-b87f-020c8a4be1b4",
-         "name":"Kiwi",
-         "district": "Old Yam",
-         "vote": null
-      },
-      {
-         "svid":"u-65b1af9f-47ad-420c-9325-e67179a879ba",
-         "name":"Jambon",
-         "district": "Isle of Servers Past",
-         "vote": null
-      },
-      {
-         "svid":"u-9777c26a-357d-460b-b011-bca5fb4bbad7",
-         "name":"DJZ",
-         "district": "Los Vooperis",
-         "vote": "aye"
-      },
-      {
-         "svid":"u-1cdac524-3e64-4202-83df-cae2a804dad5",
-         "name":"Luka",
-         "district": "Vooperia City",
-         "vote": "aye"
+     {
+       "svid": "u-e1616412-c384-4b00-b443-b8940423df67",
+       "name": "Coca"
+     }
+   ],
+   "Content": "Summary Of This Act\nThe goal of this act is to improve the archival of laws by having the central location for all laws be Github.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1. Creation\n   1. A new Github organization owned by the record keeper would be made\n   2. A repository named “Journal” in the new organisation would contain all laws\n2. Law\n   1. What is considered as the law is the github \n3. Record Keeper\n   1. The position of record keeper shall be created and their purpose would be to carry out the goals of this act\n   2. Record keeper would be appointed by the senate when there is no record keeper with a simple majority RCV vote\n   3. If a new record keeper is appointed the previous record keeper would transfer ownership of the organization or if the old record keeper is not cooperative then a new organisation as per this acts requirements\n   4. The record keeper would assign a temporary record keeper for when the record keeper resigns or is unable to do his duties\n      1. This would be the same person as the record keeper’s forker\n4. Record Keeping\n   1. A individual commit would be made for each passed motion\n      1. Any law that a passed motion has will be recorded\n   2. If a motion is to add a new law the Senator who is proposing the motion can optionally provide a text file with the same legal content  but different formatting for aesthetic reasons.\n      1. If no text file is provided only legal content will be extracted from whatever format the senator proposed is into one.\n   3. If a motion removes a law it would be put in a “Repealed” folder instead of being deleted\n   4. If the recorder keeper wishes to they can archive anything related to SpookVooper or of importance\n   5. Names of people who will be recorded in the journal will be will be decided by the record keeper if people to not respond to a notification about their name after a week\n      1. Record keeper can use a temporary name in the meantime\n      2. Name changes would be done on a case by case basis by the record keeper\n5. Deletion Prevention\n   1. 2 people would be assigned to keep updated forks of the repository Laws to prevent the deletion of repository from losing all laws.\n      1. One is assigned by the PM/President and the other by the record keeper\n         1. Ideally these 2 people have little connections to each other\n         2. These can also be replaced by the PM/President or record keeper\n      2. Each person must have one branch with the name “archive”\nThis is to allow for automatic systems to update the repository to the latest one every hour\n      3. The legal name for these would be “Forkers”",
+   "Votes": [
+     {
+       "name": "Superjacobl",
+       "svid": "u-c60c6bd8-0409-4cbd-8bb8-3c87e24c55f8",
+       "district": "New Vooperis",
+       "vote": "aye"
+     },
+     {
+       "name": "Coca",
+       "svid": "u-e1616412-c384-4b00-b443-b8940423df67",
+       "district": "New Yam",
+       "vote": "aye"
+     },
+     {
+       "svid":"u-2d60e4ca-f363-475d-85ea-f3317af36ee2",
+       "name":"Gracie",
+       "district": "Corgi",
+       "vote": "aye"
+    },
+     {
+       "name": "Tyco",
+       "svid": "u-c9535d5e-1769-40ea-a3d4-6b73775eb086",
+       "district": "Landing Cove",
+       "vote": "nay"
+     },
+     {
+       "name": "Pvp",
+       "svid": "u-7a62d274-3030-4bc0-9ea4-2ebddff329b6",
+       "district": "Old King",
+       "vote": "aye"
+     },
+     {
+       "name": "Droplt",
+       "svid": "u-fb5ebb2f-17c9-42ac-92d9-9a28911d3df2",
+       "district": "Voopmont",
+       "vote": "aye"
+     },
+     {
+       "name": "Caesar",
+       "svid": "u-5d8397c2-23d1-4db1-8b84-48e6f22dc7df",
+       "district": "Queensland",
+       "vote": "aye"
+     },
+     {
+       "name": "Hawthorne",
+       "svid": "u-7173e47a-b729-4d47-9c13-774d3978be88",
+       "district": "Netherlands",
+       "vote": "aye"
+     },
+     {
+       "name": "Devin",
+       "svid": "u-81bfd5c5-0e1c-4454-b03b-8a95f32559ee",
+       "district": "New Spudland",
+       "vote": "aye"
+     },
+     {
+       "name": "Pope Francis",
+       "svid": "u-1419405d-9197-4383-a483-2eb93eab592e",
+       "district": "San Vooperisco",
+       "vote": "aye"
+     },
+     {
+       "name": "WizardCraft",
+       "svid": "u-e753b63b-7152-4fbb-84d9-1442c53552c6",
+       "district": "Medievala",
+       "vote": "aye"
+     },
+     {
+       "name": "Kiwi",
+       "svid": "u-c44e159c-92ef-4e0a-b87f-020c8a4be1b4",
+       "district": "Old Yam",
+       "vote": "aye"
+     },
+     {
+       "name": "Jambon",
+       "svid": "u-65b1af9f-47ad-420c-9325-e67179a879ba",
+       "district": "Isle of Servers Past",
+       "vote": "aye"
+     },
+     {
+       "name": "DJZ",
+       "svid": "u-9777c26a-357d-460b-b011-bca5fb4bbad7",
+       "district": "Los Vooperis",
+       "vote": "aye"
+     },
+     {
+       "name": "Luka",
+       "svid": "u-1cdac524-3e64-4202-83df-cae2a804dad5",
+       "district": "Vooperia City",
+       "vote": "aye"
      }
    ]
-}
+ }

@@ -1,7 +1,6 @@
 on:
-  schedule:
-    - cron:  '0 */1 * * *'
-    # scheduled for every hour
+  push:
+    branches: [ main ]
 
   workflow_dispatch:  # click the button on Github repo!
 
